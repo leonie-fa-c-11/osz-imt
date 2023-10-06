@@ -1,3 +1,5 @@
+package Woche1;
+
 import java.util.Scanner;
 
 public class Millionaer {
