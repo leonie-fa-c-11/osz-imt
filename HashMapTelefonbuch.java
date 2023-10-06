@@ -107,7 +107,7 @@ public class HashMapTelefonbuch {
                     }
                     break;
                 case "x":
-                    System.out.println("Auf Wiedersehen");
+                    System.out.println("Auf Wiedersehen!");
                     scanner.close();
                     System.exit(0);
                 default:
